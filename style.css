@@ -1,0 +1,65 @@
+html, body, div, ul {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    color: #343434;
+	background: #343434;
+	font: normal 12px/18px Verdana, sans-serif;
+}
+
+#content {
+	width: 400px;
+	margin: 0px auto 0 auto;
+	padding: 0 0px 0px 0px;
+	border: solid 0px #cbcbcb;
+	background: #fafafa;
+	-moz-box-shadow: 0px 0px 10px #cbcbcb;
+	-webkit-box-shadow: 0px 0px 10px #cbcbcb;
+}
+
+h1 {
+	margin: 0px 0 0px 0;
+	font-size: 0px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+h1 span {
+	font-size: 50%;
+	letter-spacing: -0.00em;
+}
+
+hr {
+	border: none;
+	height: 0px; line-height: 0px;
+	background: #E5E5E5;
+	margin-bottom: 0px;
+	padding: 0;
+}
+
+p {
+	margin: 0;
+	padding: 7px 0;
+}
+
+a {
+	outline: none;
+}
+
+a img {
+	border: 0px solid #BBB;
+	padding: 0px;
+	margin: 0px 0px 0px 0;
+	vertical-align: top;
+}
+
+a img.last {
+	margin-right: 0;	
+}
+
+ul {
+	margin-bottom: 0px;
+	padding-left: 0px;
+}
