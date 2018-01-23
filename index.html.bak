@@ -178,6 +178,18 @@
 					
 				</a>
 
+				<a class="folioItem game" data-type="game" href="portfolio-post-148_idiots.html" fdata-name="IDIOTS">
+
+					<img src="assets/portfolio/thumbs/148_idiots.jpg" class="folioThumb" alt="IDIOTS" />
+					<div class="folioTextHolder">
+						<div class="folioText">
+							<h3>이키나게임즈</h3>
+							<p>Client : 이키나게임즈<br>모바일게임 "선천적 얼간이들" 프로모션영상 제작</br></p>
+						</div>
+					</div>
+					
+				</a>
+
 				<a class="folioItem gover" data-type="gover" href="portfolio-post-136_koda.html" fdata-name="KODA">
 
 					<img src="assets/portfolio/thumbs/136_koda.jpg" class="folioThumb" alt="KODA" />
