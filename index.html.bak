@@ -262,6 +262,18 @@
 					
 				</a>
 
+				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-161_tailer.html" fdata-name="TAILER">
+
+					<img src="assets/portfolio/thumbs/161_tailer.jpg" class="folioThumb" alt="TAILER" />
+					<div class="folioTextHolder">
+						<div class="folioText">
+							<h3>테일러푸룬</h3>
+							<p>Client : 테일러<br>테일러푸룬 홈쇼핑 사전제작영상</br></p>
+						</div>
+					</div>
+					
+				</a>
+
 				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-80_hk.html" fdata-name="HKtailor">
 
 					<img src="assets/portfolio/thumbs/80_hk.jpg" class="folioThumb" alt="HKtailor" />
