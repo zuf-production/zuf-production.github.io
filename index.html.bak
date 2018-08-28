@@ -286,6 +286,18 @@
 					
 				</a>
 
+				<a class="folioItem company" data-type="company" href="portfolio-post-162_kec.html" fdata-name="KEC">
+
+					<img src="assets/portfolio/thumbs/162_kec.jpg" class="folioThumb" alt="KEC" />
+					<div class="folioTextHolder">
+						<div class="folioText">
+							<h3>KEC</h3>
+							<p>Client : KEC<br>KEC 기업홍보영상 제작</br></p>
+						</div>
+					</div>
+					
+				</a>
+
 				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-137_mise.html" fdata-name="MISE">
 
 					<img src="assets/portfolio/thumbs/137_mise.jpg" class="folioThumb" alt="MISE" />
