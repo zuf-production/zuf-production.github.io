@@ -298,6 +298,18 @@
 					
 				</a>
 
+				<a class="folioItem product" data-type="product" href="portfolio-post-163_fun.html" fdata-name="FUNKEY">
+
+					<img src="assets/portfolio/thumbs/163_fun.jpg" class="folioThumb" alt="FUNKEY" />
+					<div class="folioTextHolder">
+						<div class="folioText">
+							<h3>펀키</h3>
+							<p>Client : 펀키<br>BIG9 홍보영상 제작</br></p>
+						</div>
+					</div>
+					
+				</a>
+
 				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-137_mise.html" fdata-name="MISE">
 
 					<img src="assets/portfolio/thumbs/137_mise.jpg" class="folioThumb" alt="MISE" />
