@@ -94,7 +94,10 @@ var protect_id = 'a858';
 					<p><a href="about.html">ZUF는?</a></p>
 				</li>
 				<li>
-					<p><a href="/wa.pdf" target="blank">와이파이광고?</a></p>
+					<p><a href="studio.html">스튜디오렌탈</a></p>
+				</li>
+				<li>
+					<p><a href="/wa.pdf" target="blank">와이파이광고대행</a></p>
 				</li>
 				<li>
 					<p><a href="client.html">클라이언트</a></p>
@@ -344,7 +347,7 @@ var protect_id = 'a858';
 					<img src="assets/portfolio/thumbs/175_market.jpg" class="folioThumb" alt="MARKET" />
 					<div class="folioTextHolder">
 						<div class="folioText">
-							<h3>중시벤처기업부</h3>
+							<h3>중소벤처기업부</h3>
 							<p>Client : 중소벤처기업부<br>전통시장 활성화 SNS 영상컨텐츠 제작</br></p>
 						</div>
 					</div>
