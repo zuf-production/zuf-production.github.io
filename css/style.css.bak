@@ -645,8 +645,8 @@ body {
 #page {
    width:840px; !important;
    background:#FFF;
-   min-width:1000px;
-   max-width:1200px;
+   min-width:840px;
+   max-width:900px;
    overflow:hidden;
    position:relative;
    padding-bottom:;
