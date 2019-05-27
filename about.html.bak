@@ -61,7 +61,16 @@
 					<p><a href="about.html">ZUF는?</a></p>
 				</li>
 				<li>
-					<p><a href="/wa.pdf" target="blank">와이파이광고?</a></p>
+					<p><a href="studio.html">SHIK STUDIO?</a></p>
+				</li>
+				<li>
+					<p><a href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">스튜디오 스케쥴</a></p>
+				</li>
+				<li>
+					<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdvf3OvZ-Eo7UmcKB8gIqN87r6IzmaqI3powCbGQsDu1JOKbg/viewform?usp=sf_link" target="blank">스튜디오 예약하기</a></p>
+				</li>
+				<li>
+					<p><a href="/wa.pdf" target="blank">와이파이광고대행</a></p>
 				</li>
 				<li>
 					<p><a href="client.html">클라이언트</a></p>
@@ -69,10 +78,10 @@
 				<li>
 					<p><a href="/zuf.pdf" target="blank">회사소개서</a></p>
 				</li>
-				<li>
-					<p><a href="contact.html">견적문의</a></p>
-				</li>
 
+				<li>
+					<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdvf3OvZ-Eo7UmcKB8gIqN87r6IzmaqI3powCbGQsDu1JOKbg/viewform?usp=sf_link" target="blank">영상제작 견적문의</a></p>
+				</li>
 
 				</li>
 
@@ -82,9 +91,13 @@
 		<form id="responsiveMenu">
 			<select>
 				<option selected data-href="#">Site Navigation</option>
-				<option data-href="index.html">Our Projects</option>
-				<option data-href="about.html">About Us</option>
-				<option data-href="contact.html">Contact Us</option>
+				<option data-href="about.html">ZUF는?</option>
+				<option data-href="studio.html">SHIK STUDIO?</option>
+				<option data-href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">시크 스튜디오 스케쥴</option>
+				<option data-href="https://docs.google.com/forms/d/e/1FAIpQLSdvf3OvZ-Eo7UmcKB8gIqN87r6IzmaqI3powCbGQsDu1JOKbg/viewform?usp=sf_link" target="blank">시크 스튜디오 예약하기</option>
+				<option data-href="client.html">클라이언트</option>
+				<option data-href="/zuf.pdf" target="blank">ZUF는?</option>
+				<option data-href="https://docs.google.com/forms/d/e/1FAIpQLSdvf3OvZ-Eo7UmcKB8gIqN87r6IzmaqI3powCbGQsDu1JOKbg/viewform?usp=sf_link" target="blank">Contact Us</option>
 			</select>
 		</form>
 		
