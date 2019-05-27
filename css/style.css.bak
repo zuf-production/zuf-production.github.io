@@ -643,7 +643,7 @@ body {
    ========================================================================== */
 
 #page {
-   width:840px; !important;
+   width:900px; !important;
    background:#FFF;
    min-width:840px;
    max-width:900px;

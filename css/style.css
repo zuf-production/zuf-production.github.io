@@ -643,10 +643,10 @@ body {
    ========================================================================== */
 
 #page {
-   width:900px; !important;
+   width:960px; !important;
    background:#FFF;
-   min-width:840px;
-   max-width:900px;
+   min-width:640px;
+   max-width:960px;
    overflow:hidden;
    position:relative;
    padding-bottom:;
