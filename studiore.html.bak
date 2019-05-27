@@ -120,7 +120,7 @@
 				<article class="contentHolder clearfix">
 
 					<div class="full_width">
-						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfi6r15EOy4bGYY5Fm0Ep5jW0jyzR0RBwgvfJkTyE0rfAy94Q/viewform?embedded=true" width="840" height="1156" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
+						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfi6r15EOy4bGYY5Fm0Ep5jW0jyzR0RBwgvfJkTyE0rfAy94Q/viewform?embedded=true" width="auto" height="auto" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
 					</div>
 
 					<div class="full_width">
