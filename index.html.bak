@@ -91,10 +91,10 @@ var protect_id = 'a858';
 					</div>
 				</li>
 				<li>
-					<p><a href="about.html">ZUF는?</a></p>
+					<p><a href="about.html">프로덕션 제트유에프 소개</a></p>
 				</li>
 				<li>
-					<p><a href="studio.html">SHIK STUDIO?</a></p>
+					<p><a href="studio.html">시크 스튜디오 둘러보기</a></p>
 				</li>
 				<li>
 					<p><a href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">시크 스튜디오 스케쥴</a></p>
