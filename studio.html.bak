@@ -61,13 +61,13 @@
 					<p><a href="about.html">프로덕션 제트유에프 소개</a></p>
 				</li>
 				<li>
-					<p><a href="studio.html">시크 스튜디오 둘러보기</a></p>
+					<p><a href="studio.html">시크스튜디오 둘러보기</a></p>
 				</li>
 				<li>
-					<p><a href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">시크 스튜디오 스케쥴</a></p>
+					<p><a href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">시크스튜디오 스케쥴</a></p>
 				</li>
 				<li>
-					<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfi6r15EOy4bGYY5Fm0Ep5jW0jyzR0RBwgvfJkTyE0rfAy94Q/viewform?usp=sf_link" target="blank">시크 스튜디오 예약하기</a></p>
+					<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfi6r15EOy4bGYY5Fm0Ep5jW0jyzR0RBwgvfJkTyE0rfAy94Q/viewform?usp=sf_link" target="blank">시크스튜디오 예약하기</a></p>
 				</li>
 				<li>
 					<p><a href="/wa.pdf" target="blank">와이파이광고대행</a></p>
@@ -93,8 +93,8 @@
 				<option selected data-href="#">Site Navigation</option>
 				<option data-href="about.html">ZUF는?</option>
 				<option data-href="studio.html">SHIK STUDIO?</option>
-				<option data-href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">시크 스튜디오 스케쥴</option>
-				<option data-href="https://docs.google.com/forms/d/e/1FAIpQLSfi6r15EOy4bGYY5Fm0Ep5jW0jyzR0RBwgvfJkTyE0rfAy94Q/viewform?usp=sf_link" target="blank">시크 스튜디오 예약하기</option>
+				<option data-href="https://calendar.google.com/calendar/embed?src=zuf.co.kr_g1rsab0379j50ee20iir6hgg4k%40group.calendar.google.com&ctz=Asia%2FSeoul" target="blank">시크스튜디오 스케쥴</option>
+				<option data-href="https://docs.google.com/forms/d/e/1FAIpQLSfi6r15EOy4bGYY5Fm0Ep5jW0jyzR0RBwgvfJkTyE0rfAy94Q/viewform?usp=sf_link" target="blank">시크스튜디오 예약하기</option>
 				<option data-href="client.html">클라이언트</option>
 				<option data-href="/zuf.pdf" target="blank">회사소개서</option>
 				<option data-href="https://docs.google.com/forms/d/e/1FAIpQLSdvf3OvZ-Eo7UmcKB8gIqN87r6IzmaqI3powCbGQsDu1JOKbg/viewform?usp=sf_link" target="blank">Contact Us</option>
@@ -123,12 +123,63 @@
 				<article class="contentHolder clearfix">
 
 					<div class="full_width">
-						<img src="/images/studio.jpg" width="100%">
+						<img src="/images/001.jpg" width="100%">
 					</div>
 					<div class="full_width">
-						<p>• TV 광고   • 기업 홍보영상   • TV 프로그램   • 웹홍보영상   • 이벤트행사영상 
-• 뮤직 비디오   • 바이럴마케팅용 홍보영상 등을 촬영/편집 합니다.</p><p>풀HD, 2K, 4K 비디오 촬영 및 편집, 스테빌라이저, 달리, 슬라이더, 지미집 등의 전문장비를 통한 안정적인 촬영, 항공, 타입랩스 촬영이 가능합니다.
+						<p>인더스트리얼 감성을 담은 키친스튜디오 "시크스튜디오"를 소개합니다.
 </p>
+					</div>
+					<div class="full_width">
+						<img src="/images/002.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<p>노출콘크리트 공간에 호두나무 상판과 블랙 하부장으로 이루어진 고급스러운 느낌의 시크스튜디오. 3.6미터에 달하는 넓은 아일랜드 싱크대에서 다양한 요리 장면을 화면에 담을 수 있습니다.
+</p>
+					</div>
+					<div class="full_width">
+						<img src="/images/004.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<img src="/images/005.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<img src="/images/006.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<img src="/images/007.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<img src="/images/008.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<p>껍데기뿐인 기존의 많은 스튜디오들과는 달리 실제 조리가 가능한 시크스튜디오는 3구가스렌지, 인덕션, 전자레인지, 광파오븐, 부르스타를 갖추어 다양한 음식의 조리가 가능합니다. 환기시설과 냉/온수, 대형 양문형 냉장고와 냉동고까지 갖추고 있기에 가져오신 재료를 신선하게 보관하시고 마음껏 조리하며 사용할 수 있습니다.
+</p>
+					</div>
+					<div class="full_width">
+						<img src="/images/009.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<img src="/images/011.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<p>스튜디오 한 켠에 마련된 카페인테리어 공간은 장비, 재료등을 셋팅하는 부가공간으로 활용할 수도 있고 또 하나의 컨셉으로 촬영에 활용할 수도 있습니다.
+</p>
+					</div>
+					<div class="full_width">
+						<img src="/images/012.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<p>입구에 마련된 작은 테라스 공간에서 휴식을 취하거나 간단한 야외씬을 촬영해보세요. 1층에 위치하여 무거운 장비이동이 빠르고 용이한 것도 시크스튜디오만의 장점입니다.
+</p>
+					</div>
+					<div class="full_width">
+						<img src="/images/013.jpg" width="100%">
+					</div>
+					<div class="full_width">
+						<p>카메라 배치에 어려움이 없도록 중앙 공간을 넉넉히 두었습니다. 다양한 구도와 화각으로 촬영해 보세요.
+</p><p></p>
+						<p><b><u>스튜디오 대여안내</u></b></p>
+						<p>* 스케쥴확인 : 좌측 상단메뉴 중 “스튜디오 스케쥴” 메뉴를 클릭하여 스케쥴을 확인합니다.</p>
 					</div>
 					<div class="hr clearfix"><hr /></div>
 
