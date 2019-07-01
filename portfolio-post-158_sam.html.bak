@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/77AjpIVT8bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/287015568?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>페브리즈 차량용 / 바이럴 영상</h4>
+						<h4>삼성전자서비스 / 메뉴얼 영상</h4>
 						<hr />
 
-						<span class="category">Client : 페브리즈</span>
+						<span class="category">Client : 삼성전자</span>
 						<hr class="second" />
 
-						<p><br>Running time : 다수클립 </br><br>페브리즈 차량용 바이럴 영상 제작</br></p>
+						<p><br>Running time : 다수클립 </br><br>삼성전자서비스 무풍에어컨 메뉴얼 영상 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
