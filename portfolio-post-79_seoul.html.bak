@@ -81,7 +81,7 @@
 		</form>
 		
 		<footer id="copy">
-			<p>Copyright © 2009 프로덕션 제트유에프.</p>
+			<p>Copyright © 2013 프로덕션 제트유에프.</p>
 		</footer>
 
 		<a href="#" id="close">close sidebar</a>
@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/uvdRNl2NhrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/143214755?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>사이버상담센터 / Company video</h4>
+						<h4>서울대학교 / Company video</h4>
 						<hr />
 
-						<span class="category">Client : 한국청소년사이버상담센터</span>
+						<span class="category">Client : 서울대학교 입학본부</span>
 						<hr class="second" />
 
-						<p><br>Running time : 다수클립</br><br>한국청소년사이버상담센터 홍보영상제작, 성우는 심명식씨와 박송씨가 맡아주셨습니다.</br></p>
+						<p><br>Running time : 11:39</br><br>서울대학교 입학전형 소개영상 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
@@ -131,8 +131,8 @@
 
 				</section>
 
-				<div id="nextProject" class="hidden"><a href="portfolio-post-72_1388.html">another-project</a></div>
-				<div id="previousProject" class="hidden"><a href="portfolio-post-54_wilson.html">another-project</a></div>
+				<div id="nextProject" class="hidden"><a href="portfolio-post-74_girl.html">another-project</a></div>
+				<div id="previousProject" class="hidden"><a href="portfolio-post-69_juk.html">another-project</a></div>
 			
 			</article>
 
