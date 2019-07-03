@@ -529,7 +529,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-155_himm.html" fdata-name="HIMPEL2">
+				<a class="folioItem pro" data-type="pro" href="portfolio-post-155_himm.html" fdata-name="HIMPEL2">
 
 					<img src="assets/portfolio/thumbs/155_himm.jpg" class="folioThumb" alt="HIMPEL2" />
 					<div class="folioTextHolder">
