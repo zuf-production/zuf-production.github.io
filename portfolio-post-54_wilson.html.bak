@@ -81,7 +81,7 @@
 		</form>
 		
 		<footer id="copy">
-			<p>Copyright © 2013 프로덕션 제트유에프.</p>
+			<p>Copyright © 2009 프로덕션 제트유에프.</p>
 		</footer>
 
 		<a href="#" id="close">close sidebar</a>
@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/or2LmN1Hf7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/125119799?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>엠이티 / 기업홍보영상</h4>
+						<h4>Wilson parking / Company video</h4>
 						<hr />
 
-						<span class="category">Client : 엠이티</span>
+						<span class="category">Client : Wilson parking</span>
 						<hr class="second" />
 
-						<p><br>Running time : 06:00 </br><br>주식회사 엠이티 기업홍보영상 제작</br></p>
+						<p><br>Running time : 04:36</br><br>윌슨파킹 주차관제 시스템 소개영상</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
@@ -131,7 +131,9 @@
 
 				</section>
 
-	
+				<div id="nextProject" class="hidden"><a href="portfolio-post-53_cyber.html">another-project</a></div>
+				<div id="previousProject" class="hidden"><a href="portfolio-post-55_eclat.html">another-project</a></div>
+			
 			</article>
 
 		</div>

@@ -81,7 +81,7 @@
 		</form>
 		
 		<footer id="copy">
-			<p>Copyright © 2013 프로덕션 제트유에프.</p>
+			<p>Copyright © 2009 프로덕션 제트유에프.</p>
 		</footer>
 
 		<a href="#" id="close">close sidebar</a>
@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/or2LmN1Hf7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/dEjltjocB_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>엠이티 / 기업홍보영상</h4>
+						<h4>Siliconworks / Promotion video</h4>
 						<hr />
 
-						<span class="category">Client : 엠이티</span>
+						<span class="category">Client : Siliconworks</span>
 						<hr class="second" />
 
-						<p><br>Running time : 06:00 </br><br>주식회사 엠이티 기업홍보영상 제작</br></p>
+						<p><br>Running time : 04:46</br><br>실리콘웍스 회사 홍보영상</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
@@ -131,7 +131,9 @@
 
 				</section>
 
-	
+				<div id="nextProject" class="hidden"><a href="portfolio-post-67_golf_2.html">another-project</a></div>
+				<div id="previousProject" class="hidden"><a href="portfolio-post-56_short.html">another-project</a></div>
+			
 			</article>
 
 		</div>
