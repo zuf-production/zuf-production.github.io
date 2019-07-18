@@ -81,7 +81,7 @@
 		</form>
 		
 		<footer id="copy">
-			<p>Copyright © 2009 프로덕션 제트유에프.</p>
+			<p>Copyright © 2013 프로덕션 제트유에프.</p>
 		</footer>
 
 		<a href="#" id="close">close sidebar</a>
@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/HSwSlhZ7CD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/151471228?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>2017전역예정장병취업박람회 / Event video</h4>
+						<h4>류화화 / Compay video</h4>
 						<hr />
 
-						<span class="category">Client : 국방부</span>
+						<span class="category">Client : 류화화</span>
 						<hr class="second" />
 
-						<p><br>Running time : 00:20</br><br>2017 전역예정장병 취업박람회 광고영상 제작</br></p>
+						<p><br>Running time : 다수클립</br><br>갈비전문점 "류화화" 홍보영상 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
@@ -131,6 +131,8 @@
 
 				</section>
 
+				<div id="nextProject" class="hidden"><a href="portfolio-post-77_vil.html">another-project</a></div>
+				<div id="previousProject" class="hidden"><a href="portfolio-post-63_kg.html">another-project</a></div>
 			
 			</article>
 
