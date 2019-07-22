@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/77AjpIVT8bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/252123952?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>페브리즈 차량용 / 바이럴 영상</h4>
+						<h4>모바일게임 "선천적 얼간이들" / Game video</h4>
 						<hr />
 
-						<span class="category">Client : 페브리즈</span>
+						<span class="category">Client : 이키나게임즈</span>
 						<hr class="second" />
 
-						<p><br>Running time : 다수클립 </br><br>페브리즈 차량용 바이럴 영상 제작</br></p>
+						<p><br>Running time : 00:30 </br><br>이키나게임즈 "선천적 얼간이들" 프로모션영상 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
