@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/SDGYnjdA5_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/287017310?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>토마스 / 홈쇼핑 영상</h4>
+						<h4>펀키 / 제품소개영상</h4>
 						<hr />
 
-						<span class="category">Client : 토마스</span>
+						<span class="category">Client : 펀키</span>
 						<hr class="second" />
 
-						<p><br>Running time : 다수클립 </br><br>토마스 퍼펙트에어 진공청소기 홈쇼핑 사전제작영상 제작</br></p>
+						<p><br>Running time : 다수클립 </br><br>BIG9 홍보영상 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
