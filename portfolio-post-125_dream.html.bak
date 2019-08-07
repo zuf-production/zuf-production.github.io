@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/92cQohlhLBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/211265301?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>한국교육개발원 / Broadcast video</h4>
+						<h4>서울시립청소년드림센터 / Event video</h4>
 						<hr />
 
-						<span class="category">Client : 한국교육개발원</span>
+						<span class="category">Client : 서울시립청소년드림센터</span>
 						<hr class="second" />
 
-						<p><br>Running time : 00:22</br><br>캐릭터송 애니메이션 제작</br></p>
+						<p><br>Running time : 05:18</br><br>2016 드림콘서트 행사스케치 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
