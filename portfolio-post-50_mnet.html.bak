@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/1oa4p12hnzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/125106328?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>Modetour / Product video</h4>
+						<h4>mnet.com / viral video</h4>
 						<hr />
 
-						<span class="category">Client : 모두투어</span>
+						<span class="category">Client : 엠넷닷컴</span>
 						<hr class="second" />
 
-						<p><br>Running time : 다수클립</br><br>모두투어의 "태산여행상품" 홈쇼핑 방송을 위한 인서트컷 촬영 및 편집</br></p>
+						<p><br>Running time : 다수클립</br><br>엠넷닷컴에서 서비스하는 플레이리스트 관련 바이럴 영상입니다. 가수 강남씨가 다양한 모습을 보여주었습니다. </br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
@@ -131,8 +131,8 @@
 
 				</section>
 
-				<div id="nextProject" class="hidden"><a href="portfolio-post-66_jin.html">another-project</a></div>
-				<div id="previousProject" class="hidden"><a href="portfolio-post-71_jil.html">another-project</a></div>
+				<div id="nextProject" class="hidden"><a href="portfolio-post-63_kg.html">another-project</a></div>
+				<div id="previousProject" class="hidden"><a href="portfolio-post-51_ledgen.html">another-project</a></div>
 			
 			</article>
 
