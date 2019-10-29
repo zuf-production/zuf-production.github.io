@@ -1045,18 +1045,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem event" data-type="event" href="portfolio-post-118_job.html" fdata-name="JOB">
-
-					<img src="assets/portfolio/thumbs/118_job.jpg" class="folioThumb" alt="JOB" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>2017전역예정장병취업박람회</h3>
-							<p>Client : 국방부<br>2017 전역예정장병 취업박람회 행사스케치 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem gover" data-type="gover" href="portfolio-post-126_edu.html" fdata-name="EDU">
 
 					<img src="assets/portfolio/thumbs/126_edu.jpg" class="folioThumb" alt="EDU" />
