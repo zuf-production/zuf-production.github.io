@@ -38,7 +38,7 @@
 		<nav id="menu">
 			<ul class="main-menu">
 				<li class="parent">
-					<p><a href="index.html">Our Projects</a></p>
+					<p><a href="index.html">포트폴리오</a></p>
 					<div>
 						<ul class="sub-menu">	
 							<li class="selected">
@@ -98,7 +98,7 @@
 
 		<div>
 
-			<h1 id="title" class="hidden">Viral video | ZUF</h1>
+			<h1 id="title" class="hidden">Motion Graphic | ZUF</h1>
 		
 			<article class="project clearfix">
 
@@ -107,7 +107,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/KsdvEr4pqps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/U8W1sxxsKBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -118,21 +118,26 @@
 
 					<div class="content">
 
-						<h4>SHINHAN / VIRAL video</h4>
+						<h4>삼성전자 무풍에어컨 메뉴얼 영상 시리즈</h4>
 						<hr />
 
-						<span class="category">Client : 신한금융그룹</span>
+						<span class="category">Client : 삼성전자</span>
 						<hr class="second" />
 
-						<p><br>제작년도 : 2016 </br><br>예산(참고) : 3,000~5,000만 내외(출연료 제외)</br><br>제작범위 : 기획을 제외한 영상제작 총괄</br></p>
+						<p><br>제작년도 : 2018 </br><br>예산(참고) : 3,000~5,000만 내외</br><br>제작범위 : 영상제작 총괄</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
+						<div id="shareLinks" class="shareLinks">
+							<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+							<div class="fb-like" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div>
+						</div>
 
 					</div>
 
 				</section>
-		
+
+	
 			</article>
 
 		</div>
