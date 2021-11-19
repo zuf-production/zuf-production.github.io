@@ -121,7 +121,7 @@ var protect_id = 'a858';
 
 			<section id="portfolio" class="folioGrid clearfix">
 
-				<a class="folioItem tv" data-type="tv" href="portfolio-post-150_himpel.html" fdata-name="HIMPEL">
+				<a class="folioItem broadcast" data-type="tv" href="portfolio-post-150_himpel.html" fdata-name="HIMPEL">
 
 					<img src="assets/portfolio/thumbs/150_himpel.jpg" class="folioThumb" alt="HIMPEL" />
 					<div class="folioTextHolder">
