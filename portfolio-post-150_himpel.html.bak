@@ -118,14 +118,9 @@
 						<span class="category">Client : 힘펠</span>
 						<hr class="second" />
 
-						<p><br>Running time : 다수클립 </br><br>Budget : 5,000만원 내외(출연료 제외)</br><br>Running time : 다수클립 </br><br>힘펠 휴젠뜨 TVCF 및 메이킹영상 기획&제작&송출</br></p>
+						<p><br>제작년도 : 2018 </br><br>예산(참고) : 5,000~8,000만 내외(출연료 제외)</br><br>제작범위 : TVCF 및 메이킹영상 기획, 제작총괄</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
-
-						<div id="shareLinks" class="shareLinks">
-							<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-							<div class="fb-like" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div>
-						</div>
 
 					</div>
 
@@ -136,36 +131,6 @@
 
 		</div>
 
-		<footer class="footer" id="topFooter">
-
-			<div class="left">
-				<div class="widget clearfix social">
-					<ul class="socialList clearfix">
-						<li><a target="_blank" class="twitter" href="http://twitter.com/zemdda">twitter icon</a></li>
-						<li><a target="_blank" class="facebook" href="http://facebook.com/zemdda">facebook icon</a></li>
-						<li><a target="_blank" class="google" href="#">google plus icon</a></li>
-						<li><a target="_blank" class="vimeo" href="#">vimeo icon</a></li>
-					</ul>
-				</div>
-				<hr class="widget_separator" />
-				<div class="widget clearfix widget_search">
-					<form action="#" id="searchform" class="searchBox">
-						<input type="text" data-value="Type and hit Enter" value="Type and hit Enter" />
-	   				</form>
-	   			</div>			
-	   		</div>
-								
-			<div class="right">
-				<div class="widget clearfix phone">
-					<p class="phoneNumber">Call Us <strong><a href="callto:07042416662">070-4241-6662</a></strong></p>
-				</div>			
-			</div>
-				
-		</footer>
-
-		<footer class="footer" id="bottomFooter">
-			<a href="#" id="top">Go to Top <span>&uarr;</span></a>
-		</footer>
 
 	</div>
 
