@@ -67,7 +67,7 @@ var protect_id = 'a858';
 								<p><a href="#" data-category="true" data-filter="tvcf">TV광고</a></p>
 							</li>
 							<li>
-								<p><a href="#" data-category="true" data-filter="commercial">홍보영상</a></p>
+								<p><a href="#" data-category="true" data-filter="com">홍보영상</a></p>
 							</li>
 							<li>
 								<p><a href="#" data-category="true" data-filter="home">홈쇼핑영상</a></p>
@@ -133,7 +133,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem sns" data-type="sns" href="portfolio-post-157_feb.html" fdata-name="FEBREZE">
+				<a class="folioItem com" data-type="sns" href="portfolio-post-157_feb.html" fdata-name="FEBREZE">
 
 					<img src="assets/portfolio/thumbs/157_feb.jpg" class="folioThumb" alt="FEBREZE" />
 					<div class="folioTextHolder">
@@ -2017,7 +2017,7 @@ var protect_id = 'a858';
 				</a>
 
 				<ul class="folioCategories hidden">
-					<li>tv</li>
+					<li>tvcf</li>
 					<li>com</li>
 					<li>home</li>
 					<li>sc</li>
