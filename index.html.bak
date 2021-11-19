@@ -64,10 +64,10 @@ var protect_id = 'a858';
 								<p><a title="allportfolio" href="#" data-all="true" data-filter="*">전체보기</a></p>
 							</li>
 							<li>
-								<p><a href="#" data-category="true" data-filter="tv">TV광고</a></p>
+								<p><a href="#" data-category="true" data-filter="tvcf">TV광고</a></p>
 							</li>
 							<li>
-								<p><a href="#" data-category="true" data-filter="com">홍보영상</a></p>
+								<p><a href="#" data-category="true" data-filter="commercial">홍보영상</a></p>
 							</li>
 							<li>
 								<p><a href="#" data-category="true" data-filter="home">홈쇼핑영상</a></p>
@@ -181,7 +181,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-110_kg.html" fdata-name="KG">
+				<a class="folioItem tv" data-type="tv" href="portfolio-post-110_kg.html" fdata-name="KG">
 
 					<img src="assets/portfolio/thumbs/110_kg.jpg" class="folioThumb" alt="KG" />
 					<div class="folioTextHolder">
