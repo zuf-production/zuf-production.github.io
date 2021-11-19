@@ -92,7 +92,7 @@
 
 		<div>
 
-			<h1 id="title" class="hidden">Product video | ZUF</h1>
+			<h1 id="title" class="hidden">Cmercial video | ZUF</h1>
 		
 			<article class="project clearfix">
 
@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="496" height="279" src="https://www.youtube.com/embed/a6R2eD8MUD0" frameborder="0" allow="accelerometer; autoplay=1&amp; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/77AjpIVT8bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -112,15 +112,16 @@
 
 					<div class="content">
 
-						<h4>힘펠 휴젠뜨 / TVCF</h4>
+						<h4>페브리즈 차량용 / 바이럴 영상</h4>
 						<hr />
 
-						<span class="category">Client : 힘펠</span>
+						<span class="category">Client : 페브리즈</span>
 						<hr class="second" />
 
-						<p><br>제작년도 : 2018 </br><br>예산(참고) : 5,000~8,000만 내외(출연료 제외)</br><br>제작범위 : 힘펠 휴젠뜨 TVCF 및 메이킹영상 제작총괄</br></p>
+						<p><br>제작년도 : 2018 </br><br>예산(참고) : 3,000~5,000만 내외(출연료 제외)</br><br>제작범위 : 기획을 제외한 영상제작 총괄</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
+
 
 					</div>
 
