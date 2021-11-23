@@ -98,7 +98,7 @@
 
 		<div>
 
-			<h1 id="title" class="hidden">Home shopping video | ZUF</h1>
+			<h1 id="title" class="hidden">Product video | ZUF</h1>
 		
 			<article class="project clearfix">
 
@@ -107,7 +107,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/X7TaL4UR9gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/pZkWPAnIyhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -118,13 +118,13 @@
 
 					<div class="content">
 
-						<h4>테일러푸룬 / 홈쇼핑영상</h4>
+						<h4>모바일게임 "선천적 얼간이들" / Game video</h4>
 						<hr />
 
-						<span class="category">Client : 테일러</span>
+						<span class="category">Client : 이키나게임즈</span>
 						<hr class="second" />
 
-						<p><br>제작년도 : 2017 </br><br>예산(참고) : 1,500만 내외</br><br>제작범위 : 기획/촬영/편집</br></p>
+						<p><br>제작년도 : 2018 </br><br>예산(참고) : 500만~1000만 내외</br><br>제작범위 : 영상편집</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 

@@ -98,7 +98,7 @@
 
 		<div>
 
-			<h1 id="title" class="hidden">Home shopping video | ZUF</h1>
+			<h1 id="title" class="hidden">Product video | ZUF</h1>
 		
 			<article class="project clearfix">
 
@@ -107,7 +107,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/X7TaL4UR9gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/5iAQT0mRBfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -118,16 +118,17 @@
 
 					<div class="content">
 
-						<h4>테일러푸룬 / 홈쇼핑영상</h4>
+						<h4>경기도청 / 바이럴 영상</h4>
 						<hr />
 
-						<span class="category">Client : 테일러</span>
+						<span class="category">Client : 경기도청</span>
 						<hr class="second" />
 
-						<p><br>제작년도 : 2017 </br><br>예산(참고) : 1,500만 내외</br><br>제작범위 : 기획/촬영/편집</br></p>
+						<p><br>Running time : 04:11 </br><br>경기도 일자리재단 홍보용 바이럴 영상 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
+						<div id="shareLinks" class="shareLinks">
 
 	</div>
 

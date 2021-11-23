@@ -187,13 +187,13 @@ var protect_id = 'a858';
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>경기도 일자리재단</h3>
-							<p>Client : 경기도청<br>경기도 일자리재단 TVCF 제작</br></p><!-- ^오^ -->
+							<p>Client : 경기도청<br>경기도 일자리재단 TVCF 제작</br></p>
 						</div>
 					</div>
 					
 				</a>
 
-				<a class="folioItem pro" data-type="pro" href="portfolio-post-160_air.html" fdata-name="AIROCARE">
+				<a class="folioItem com" data-type="com" href="portfolio-post-160_air.html" fdata-name="AIROCARE">
 
 					<img src="assets/portfolio/thumbs/160_air.jpg" class="folioThumb" alt="AIROCARE" />
 					<div class="folioTextHolder">
@@ -205,7 +205,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-135_hg.html" fdata-name="HG">
+				<a class="folioItem tvcf" data-type="tvcf" href="portfolio-post-135_hg.html" fdata-name="HG">
 
 					<img src="assets/portfolio/thumbs/135_hg.jpg" class="folioThumb" alt="HG" />
 					<div class="folioTextHolder">
@@ -229,7 +229,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem game" data-type="game" href="portfolio-post-148_idiots.html" fdata-name="IDIOTS">
+				<a class="folioItem mo" data-type="mo" href="portfolio-post-148_idiots.html" fdata-name="IDIOTS">
 
 					<img src="assets/portfolio/thumbs/148_idiots.jpg" class="folioThumb" alt="IDIOTS" />
 					<div class="folioTextHolder">
@@ -241,7 +241,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem gover" data-type="gover" href="portfolio-post-172_kk_d.html" fdata-name="GG">
+				<a class="folioItem com" data-type="com" href="portfolio-post-172_kk_d.html" fdata-name="GG">
 
 					<img src="assets/portfolio/thumbs/172_kk_d.jpg" class="folioThumb" alt="GG" />
 					<div class="folioTextHolder">
@@ -253,7 +253,7 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem gover" data-type="gover" href="portfolio-post-173_kk_b.html" fdata-name="GG">
+				<a class="folioItem com" data-type="com" href="portfolio-post-173_kk_b.html" fdata-name="GG">
 
 					<img src="assets/portfolio/thumbs/173_kk_b.jpg" class="folioThumb" alt="GG" />
 					<div class="folioTextHolder">
@@ -265,13 +265,13 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem gover" data-type="gover" href="portfolio-post-136_koda.html" fdata-name="KODA">
+				<a class="folioItem mo" data-type="mo" href="portfolio-post-136_koda.html" fdata-name="KODA">
 
 					<img src="assets/portfolio/thumbs/136_koda.jpg" class="folioThumb" alt="KODA" />
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>한국장기조직기증원</h3>
-							<p>Client : 한국장기조직기증원<br>한국장기조직기증원 대표 캐릭터 소개영상 제작</br></p>
+							<p>Client : 한국장기조직기증원<br>한국장기조직기증원 대표 캐릭터 소개영상 제작</br></p><!-- ^오^ -->
 						</div>
 					</div>
 					

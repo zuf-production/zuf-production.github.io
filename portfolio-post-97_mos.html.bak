@@ -98,7 +98,7 @@
 
 		<div>
 
-			<h1 id="title" class="hidden">Home shopping video | ZUF</h1>
+			<h1 id="title" class="hidden">Product video | ZUF</h1>
 		
 			<article class="project clearfix">
 
@@ -107,7 +107,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/X7TaL4UR9gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/xFm5nlTwtB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -118,16 +118,20 @@
 
 					<div class="content">
 
-						<h4>테일러푸룬 / 홈쇼핑영상</h4>
+						<h4>THERMOS KOREA / BROADCAST video</h4>
 						<hr />
 
-						<span class="category">Client : 테일러</span>
+						<span class="category">Client : 써모스코리아</span>
 						<hr class="second" />
 
-						<p><br>제작년도 : 2017 </br><br>예산(참고) : 1,500만 내외</br><br>제작범위 : 기획/촬영/편집</br></p>
+						<p><br>Running time : 다수클립</br><br>써모스코리아 홈쇼핑 사전제작영상</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
+
+		<footer class="footer" id="bottomFooter">
+			<a href="#" id="top">Go to Top <span>&uarr;</span></a>
+		</footer>
 
 	</div>
 
