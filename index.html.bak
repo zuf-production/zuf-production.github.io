@@ -271,7 +271,7 @@ var protect_id = 'a858';
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>한국장기조직기증원</h3>
-							<p>Client : 한국장기조직기증원<br>한국장기조직기증원 대표 캐릭터 소개영상 제작</br></p><!-- ^오^ -->
+							<p>Client : 한국장기조직기증원<br>한국장기조직기증원 대표 캐릭터 소개영상 제작</br></p>
 						</div>
 					</div>
 					
@@ -289,13 +289,13 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem broadcast" data-type="broadcast" href="portfolio-post-80_hk.html" fdata-name="HKtailor">
+				<a class="folioItem tvcf" data-type="tvcf" href="portfolio-post-80_hk.html" fdata-name="HKtailor">
 
 					<img src="assets/portfolio/thumbs/80_hk.jpg" class="folioThumb" alt="HKtailor" />
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>HK테일러</h3>
-							<p>Client : HK테일러<br>정장브랜드 HK테일러 TVCF 제작</br></p>
+							<p>Client : HK테일러<br>정장브랜드 HK테일러 TVCF 제작</br></p><!-- ^오^ -->
 						</div>
 					</div>
 					
