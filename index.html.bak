@@ -205,13 +205,13 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem tvcf" data-type="tvcf" href="portfolio-post-135_hg.html" fdata-name="HG">
+				<a class="folioItem etc" data-type="etc" href="portfolio-post-117_job_tv.html" fdata-name="JOBTV">
 
-					<img src="assets/portfolio/thumbs/135_hg.jpg" class="folioThumb" alt="HG" />
+					<img src="assets/portfolio/thumbs/117_job_tv.jpg" class="folioThumb" alt="JOBTV" />
 					<div class="folioTextHolder">
 						<div class="folioText">
-							<h3>현대글로비스</h3>
-							<p>Client : 현대글로비스<br>현대글로비스 오토벨 버스광고영상 제작</br></p>
+							<h3>2021전역예정장병취업박람회</h3>
+							<p>Client : 국방부<br>2021 전역예정장병 취업박람회 광고영상 제작</br></p>
 						</div>
 					</div>
 					
@@ -296,18 +296,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>HK테일러</h3>
 							<p>Client : HK테일러<br>정장브랜드 HK테일러 TVCF 제작</br></p><!-- ^오^ -->
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem com" data-type="com" href="portfolio-post-162_kec.html" fdata-name="KEC">
-
-					<img src="assets/portfolio/thumbs/162_kec.jpg" class="folioThumb" alt="KEC" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>KEC</h3>
-							<p>Client : KEC<br>KEC 기업홍보영상 제작</br></p>
 						</div>
 					</div>
 					
@@ -402,18 +390,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>중소벤처기업부</h3>
 							<p>Client : 중소벤처기업부<br>전통시장 활성화 SNS 영상컨텐츠 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem com" data-type="com" href="portfolio-post-163_fun.html" fdata-name="FUNKEY">
-
-					<img src="assets/portfolio/thumbs/163_fun.jpg" class="folioThumb" alt="FUNKEY" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>펀키</h3>
-							<p>Client : 펀키<br>BIG9 홍보영상 제작</br></p>
 						</div>
 					</div>
 					
@@ -575,18 +551,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem home" data-type="home" href="portfolio-post-156_hu_2.html" fdata-name="HUSTORM2">
-
-					<img src="assets/portfolio/thumbs/156_hu_2.jpg" class="folioThumb" alt="HUSTORM2" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>휴스톰 듀얼시스템 다리미 홈쇼핑 사전제작영상</h3>
-							<p>Client : 휴스톰<br>휴스톰 듀얼시스템 다리미 홈쇼핑 사전제작영상 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem mo" data-type="mo" href="portfolio-post-99_hans_2.html" fdata-name="HANS">
 
 					<img src="assets/portfolio/thumbs/99_hans_2.jpg" class="folioThumb" alt="hans" />
@@ -731,18 +695,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-107_dong.html" fdata-name="DONG">
-
-					<img src="assets/portfolio/thumbs/107_dong.jpg" class="folioThumb" alt="dong" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>동반성장위원회</h3>
-							<p>Client : 동반성장위원회<br>2016 동반성장주간행사 주제영상 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem etc" data-type="etc" href="portfolio-post-108_moon.html" fdata-name="MOON">
 
 					<img src="assets/portfolio/thumbs/108_moon.jpg" class="folioThumb" alt="moon" />
@@ -822,18 +774,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>자유투어</h3>
 							<p>Client : 자유투어<br>자유투어 유투브 광고영상 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem sns" data-type="sns" href="portfolio-post-82_market.html" fdata-name="MARKET">
-
-					<img src="assets/portfolio/thumbs/82_market.jpg" class="folioThumb" alt="MARKET" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>벼룩시장</h3>
-							<p>Client : 벼룩시장<br>벼룩시장 바이럴영상 제작</br></p>
 						</div>
 					</div>
 					
@@ -959,18 +899,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem com" data-type="com" href="portfolio-post-142_sj.html" fdata-name="SJ">
-
-					<img src="assets/portfolio/thumbs/142_sj.jpg" class="folioThumb" alt="SJ" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>수정하이텍</h3>
-							<p>Client : 수정하이텍<br>수정하이텍 기업소개영상 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem mo" data-type="mo" href="portfolio-post-86_pivot.html" fdata-name="PIVOT">
 
 					<img src="assets/portfolio/thumbs/86_pivot.jpg" class="folioThumb" alt="PIVOT" />
@@ -1031,18 +959,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem com" data-type="com" href="portfolio-post-76_panda.html" fdata-name="PANDA">
-
-					<img src="assets/portfolio/thumbs/76_panda.jpg" class="folioThumb" alt="PANDA" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>판다코리아</h3>
-							<p>Client : 판다코리아<br>판다코리아 기업홍보영상 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem sc" data-type="sc" href="portfolio-post-93_race.html" fdata-name="ZIGATO">
 
 					<img src="assets/portfolio/thumbs/93_race.jpg" class="folioThumb" alt="ZITAGO" />
@@ -1062,18 +978,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>강가의나무</h3>
 							<p>Client : 강가의나무<br>이종임의 안창살 구이 홈쇼핑 사전제작 영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-117_job_tv.html" fdata-name="JOBTV">
-
-					<img src="assets/portfolio/thumbs/117_job_tv.jpg" class="folioThumb" alt="JOBTV" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>2017전역예정장병취업박람회</h3>
-							<p>Client : 국방부<br>2017 전역예정장병 취업박람회 광고영상 제작</br></p>
 						</div>
 					</div>
 					
@@ -1182,30 +1086,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>서울여자대학교</h3>
 							<p>Client : 서울여자대학교<br>서울여자대학교 특성화사업 학과 소개영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-				
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-23_hr.html" data-name="hr">
-
-					<img src="assets/portfolio/thumbs/23_hr.jpg" class="folioThumb" alt="HR" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>Human Rights 13th</h3>
-							<p>Client : 인권위원회<br>인권위원회 13주년 홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem mo" data-type="mo" href="portfolio-post-77_vil.html" fdata-name="DAVIL">
-
-					<img src="assets/portfolio/thumbs/77_vil.jpg" class="folioThumb" alt="DAVIL" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>다이렉트빌라</h3>
-							<p>Client : 다이렉트빌라<br>다이렉트빌라 홍보 스팟영상 제작 </br></p>
 						</div>
 					</div>
 					
@@ -1367,42 +1247,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem com" data-type="com" href="portfolio-post-127_kai.html" fdata-name="KAI">
-
-					<img src="assets/portfolio/thumbs/127_kai.jpg" class="folioThumb" alt="KAI" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>카이맥스햄코로봇</h3>
-							<p>Client : 카이맥스<br>카이맥스 교육용 코딩로봇 햄코 홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem com" data-type="com" href="portfolio-post-70_bon.html" data-name="bon">
-
-					<img src="assets/portfolio/thumbs/70_bon.jpg" class="folioThumb" alt="BON" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>BONIF</h3>
-							<p>Client : 본아이에프<br>본아이에프 기업홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem com" data-type="com" href="portfolio-post-95_big.html" data-name="BIG">
-
-					<img src="assets/portfolio/thumbs/95_big.jpg" class="folioThumb" alt="BIG" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>Bn1</h3>
-							<p>Client : 빅그린<br>아기 목욕방법 영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem com" data-type="com" href="portfolio-post-45_bn1.html" data-name="bn1">
 
 					<img src="assets/portfolio/thumbs/45_bn1.jpg" class="folioThumb" alt="BN1" />
@@ -1547,18 +1391,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem com" data-type="com" href="portfolio-post-31_silicon.html" data-name="silicon">
-
-					<img src="assets/portfolio/thumbs/33_silicon.jpg" class="folioThumb" alt="SILICONWORKS" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>Siliconworks promo</h3>
-							<p>Client : 한국반도체산업협회, 와이아이케이<br>와이아이케이 홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem mo" data-type="mo" href="portfolio-post-47_ikina_3.html" data-name="ikina">
 
 					<img src="assets/portfolio/thumbs/47_ikina_3.jpg" class="folioThumb" alt="NOG" />
@@ -1590,18 +1422,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>BLUECLOUD</h3>
 							<p>Client : 블루클라우드<br>블루클라우드 가상체험 트레이닝 시스템 소개영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-57_kistec.html" data-name="KISTEC">
-
-					<img src="assets/portfolio/thumbs/57_kistec.jpg" class="folioThumb" alt="KISTEC" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>KISTEC</h3>
-							<p>Client : 한국시설안전공단<br>한국시설안전공단송 CS체조영상</br></p>
 						</div>
 					</div>
 					
@@ -1667,30 +1487,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem mo" data-type="mo" href="portfolio-post-7.html" data-name="inca">
-
-					<img src="assets/portfolio/thumbs/06_inca.jpg" class="folioThumb" alt="INCA" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>nProtect "NFDS" solution promo</h3>
-							<p>Client : INCA internet<br>잉카인터넷 보안솔루션 소개영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem sns" data-type="sns" href="portfolio-post-11.html" data-name="daily">
-
-					<img src="assets/portfolio/thumbs/10_daily.jpg" class="folioThumb" alt="DAILY QUIZ" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>DAILY QUIZ APP PROMO</h3>
-							<p>Client : SINSAGO<br>좋은책신사고 "데일리퀴즈" 앱 홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem etc" data-type="etc" href="portfolio-post-6.html" data-name="illume">
 
 					<img src="assets/portfolio/thumbs/05_illume.jpg" class="folioThumb" alt="ILLUME" />
@@ -1727,18 +1523,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-59_kcpi.html" data-name="KCPI">
-
-					<img src="assets/portfolio/thumbs/59_kcpi.jpg" class="folioThumb" alt="KCPI" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>한국보육진흥원</h3>
-							<p>Client : 한국보육진흥원/보건복지부<br>보육진흥원 보육교사연수 사례영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem com" data-type="com" href="portfolio-post-60_sefian.html" data-name="SAFIAN">
 
 					<img src="assets/portfolio/thumbs/60_sefian.jpg" class="folioThumb" alt="SAFIAN" />
@@ -1758,18 +1542,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>Mnet.com</h3>
 							<p>Client : 엠넷닷컴<br>엠넷닷컴 바이럴영상 퀴즈편</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem sc" data-type="sc" href="portfolio-post-62_sae.html" data-name="SAEGERO">
-
-					<img src="assets/portfolio/thumbs/62_sae.jpg" class="folioThumb" alt="SAEGERO" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>세계로교육</h3>
-							<p>Client : 세계로교육<br>세계로교육 세미나 영상 하일라이트</br></p>
 						</div>
 					</div>
 					
@@ -1836,54 +1608,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem com" data-type="com" href="portfolio-post-9.html" data-name="acl">
-
-					<img src="assets/portfolio/thumbs/08_acl.jpg" class="folioThumb" alt="ACL" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>ACL PROMO</h3>
-							<p>Client : ACL<br>에어콘테이너로지스틱스 20주년 홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem sc" data-type="sc" href="portfolio-post-8.html" data-name="young">
-
-					<img src="assets/portfolio/thumbs/07_young.jpg" class="folioThumb" alt="YOUNG" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>YOUNG COMMUNICATIONS PROMO</h3>
-							<p>Client : YOUNG COMMUNICATIONS<br>영기획 창립기념홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem sns" data-type="sns" href="portfolio-post-12.html" data-name="haitai">
-
-					<img src="assets/portfolio/thumbs/11_ht.jpg" class="folioThumb" alt="HAITAI" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>HAITAI VIRAL UCC</h3>
-							<p>Client : HAITAI<br>해태제과 "칼로리바란스" 바이럴영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-21_show.html" data-name="showguy">
-
-					<img src="assets/portfolio/thumbs/21_show.jpg" class="folioThumb" alt="SHOWGUY" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>MUSIC VIDEO</h3>
-							<p>Client : SHOWGUY<br>쇼핑몰 홍보용 뮤직드라마</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem com" data-type="com" href="portfolio-post-10.html" data-name="woongjin">
 
 					<img src="assets/portfolio/thumbs/09_wj.jpg" class="folioThumb" alt="WOONGJIN" />
@@ -1891,18 +1615,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>WOONGJIN PROMO</h3>
 							<p>Client : WOONGJIN<br>웅진씽크빅 "알콩샘" 홍보영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-24_fsc.html" data-name="fsc">
-
-					<img src="assets/portfolio/thumbs/25_fsc.jpg" class="folioThumb" alt="FSC" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>FSC 2014 policy</h3>
-							<p>Client : 금융위원회<br>금융위원회 2014년 정책홍보영상</br></p>
 						</div>
 					</div>
 					
@@ -1933,41 +1645,6 @@ var protect_id = 'a858';
 				</a>
 
 
-				<a class="folioItem mo" data-type="mo" href="portfolio-post-39_mon.html" data-name="mymon">
-
-					<img src="assets/portfolio/thumbs/39_mon.jpg" class="folioThumb" alt="MYMON" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>MYMON</h3>
-							<p>Client : SPRING <br>모바일게임 "마이몬" 프로모션 영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem com" data-type="com" href="portfolio-post-32_asia.html" data-name="asia">
-
-					<img src="assets/portfolio/thumbs/37_asia.jpg" class="folioThumb" alt="ASIA" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>Asiaplantec</h3>
-							<p>Client : ASIAPLANTEC<br>아시아플랜텍 회사소개영상(중국어)</br></p>
-						</div>
-					</div>
-				</a>
-
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-37_kpx.html" data-name="kpx">
-
-					<img src="assets/portfolio/thumbs/32_kpx.jpg" class="folioThumb" alt="KPX" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>KPX interview</h3>
-							<p>Client : 한국전력거래소 <br>한국전력거래소 채용홍보동영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem sns" data-type="sns" href="portfolio-post-4_samsung.html" data-name="samsung">
 
 					<img src="assets/portfolio/thumbs/04_samsung.jpg" class="folioThumb" alt="SAMSUNG" />
@@ -1975,30 +1652,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>Samsung campaign viral UCC</h3>
 							<p>Client : SAMSUNG<br>삼성 "하하하"캠페인 바이럴영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem etc" data-type="etc" href="portfolio-post-5.html" data-name="ak">
-
-					<img src="assets/portfolio/thumbs/04_ak.jpg" class="folioThumb" alt="AK" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>AK model Taeyeon interview</h3>
-							<p>Client : AK<br>애경 a솔루션 모델 태연 인터뷰</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem sns" data-type="sns" href="portfolio-post-6_kia.html" data-name="kia">
-
-					<img src="assets/portfolio/thumbs/06_kia.jpg" class="folioThumb" alt="KIA" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>KIA MOTORS viral video</h3>
-							<p>Client : KIA MOTORS<br>기아자동차 "쏘울" 바이럴영상</br></p>
 						</div>
 					</div>
 					

@@ -101,7 +101,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/vXOBGlnLvhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="600" height="338" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/201805244?portrait=0&amp;color=F45D2A"></iframe></div>
 						</div>
 
 					</div>
@@ -112,13 +112,13 @@
 
 					<div class="content">
 
-						<h4>BONIF / Company video</h4>
+						<h4>Hansbiomed / Product video</h4>
 						<hr />
 
-						<span class="category">Client : 본아이에프</span>
+						<span class="category">Client : 한스바이오메드</span>
 						<hr class="second" />
 
-						<p><br>Running time : 05:47</br><br>본아이에프 기업홍보영상 제작</br></p>
+						<p><br>Running time : 다수클립</br><br>한스바이오메드 벨라젤 교육영상 국문/영문/중문 제작</br></p>
 
 						<a class="actionButton close" href="#">Close</a>
 
@@ -131,8 +131,8 @@
 
 				</section>
 
-				<div id="nextProject" class="hidden"><a href="portfolio-post-65_golf.html">another-project</a></div>
-				<div id="previousProject" class="hidden"><a href="portfolio-post-95_big.html">another-project</a></div>
+				<div id="nextProject" class="hidden"><a href="portfolio-post-140_wt.html">another-project</a></div>
+				<div id="previousProject" class="hidden"><a href="portfolio-post-139_first.html">another-project</a></div>
 			
 			</article>
 
