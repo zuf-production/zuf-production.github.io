@@ -187,7 +187,7 @@ var protect_id = 'a858';
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>경기도 일자리재단</h3>
-							<p>Client : 경기도청<br>경기도 일자리재단 TVCF 제작</br></p>
+							<p>Client : 경기도청<br>경기도 일자리재단 TVCF 제작</br></p><!-- ^오^ -->
 						</div>
 					</div>
 					
