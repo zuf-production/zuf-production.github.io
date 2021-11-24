@@ -169,18 +169,6 @@ var protect_id = 'a858';
 					
 				</a>
 
-				<a class="folioItem mo" data-type="mo" href="portfolio-post-181_ey.html" fdata-name="SAMSUNG">
-
-					<img src="assets/portfolio/thumbs/181_ey.jpg" class="folioThumb" alt="SAMSUNG" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>아이들과미래재단</h3>
-							<p>Client : 아이들과미래재단<br>EY한영과 함께하는 아그작교실 사업보고영상</br></p>
-						</div>
-					</div>
-					
-				</a>
-
 				<a class="folioItem tvcf" data-type="tvcf" href="portfolio-post-159_fin.html" fdata-name="FINEVU">
 
 					<img src="assets/portfolio/thumbs/159_fin.jpg" class="folioThumb" alt="FINEVU" />
