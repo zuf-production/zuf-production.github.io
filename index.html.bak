@@ -463,7 +463,7 @@ var protect_id = 'a858';
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>존폴쥬얼리</h3>
-							<p>Client : 존폴쥬얼리<br>존폴쥬얼리 SNS 컨텐츠</br></p><!-- ^오^ -->
+							<p>Client : 존폴쥬얼리<br>존폴쥬얼리 SNS 컨텐츠</br></p>
 						</div>
 					</div>
 					
@@ -547,7 +547,7 @@ var protect_id = 'a858';
 					<div class="folioTextHolder">
 						<div class="folioText">
 							<h3>한국장기조직기증원</h3>
-							<p>Client : 한국장기조직기증원<br>한국장기조직기증원 홍보 웹투니메이션 제작</br></p>
+							<p>Client : 한국장기조직기증원<br>한국장기조직기증원 홍보 웹투니메이션 제작</br></p><!-- ^오^ -->
 						</div>
 					</div>
 					
@@ -560,18 +560,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>힘펠 휴젠뜨 TVCF 메이킹필름</h3>
 							<p>Client : 힘펠<br>힘펠 휴젠뜨 TVCF 메이킹필름 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem mo" data-type="mo" href="portfolio-post-99_hans_2.html" fdata-name="HANS">
-
-					<img src="assets/portfolio/thumbs/99_hans_2.jpg" class="folioThumb" alt="hans" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>한스바이오메드</h3>
-							<p>Client : 한스바이오메드<br>한스바이오메드 벨라젤 교육용 영상 국문/영문/중문 제작</br></p>
 						</div>
 					</div>
 					
