@@ -193,6 +193,20 @@ var protect_id = 'a858';
 					
 				</a>
 
+
+				<a class="folioItem com" data-type="com" href="portfolio-post-81_hans.html" fdata-name="HANS">
+
+					<img src="assets/portfolio/thumbs/81_hans.jpg" class="folioThumb" alt="HANS" />
+					<div class="folioTextHolder">
+						<div class="folioText">
+							<h3>한스바이오메드</h3>
+							<p>Client : 한스바이오메드<br>한스바이오메드 기업홍보영상 제작</br></p>
+						</div>
+					</div>
+					
+				</a>
+
+
 				<a class="folioItem com" data-type="com" href="portfolio-post-160_air.html" fdata-name="AIROCARE">
 
 					<img src="assets/portfolio/thumbs/160_air.jpg" class="folioThumb" alt="AIROCARE" />
@@ -726,18 +740,6 @@ var protect_id = 'a858';
 						<div class="folioText">
 							<h3>경기북부어린이박물관</h3>
 							<p>Client : 동두천시<br>경기북부어린이박물관 홍보영상 제작</br></p>
-						</div>
-					</div>
-					
-				</a>
-
-				<a class="folioItem com" data-type="com" href="portfolio-post-81_hans.html" fdata-name="HANS">
-
-					<img src="assets/portfolio/thumbs/81_hans.jpg" class="folioThumb" alt="HANS" />
-					<div class="folioTextHolder">
-						<div class="folioText">
-							<h3>한스바이오메드</h3>
-							<p>Client : 한스바이오메드<br>한스바이오메드 기업홍보영상 제작</br></p>
 						</div>
 					</div>
 					
