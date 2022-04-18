@@ -98,7 +98,7 @@
 
 		<div>
 
-			<h1 id="title" class="hidden">Commercial video | ZUF</h1>
+			<h1 id="title" class="hidden">Product video | ZUF</h1>
 		
 			<article class="project clearfix">
 
@@ -107,7 +107,7 @@
 					<div id="postSlider">
 
 						<div class="slides_container">
-							<div><iframe width="496" height="279" src="https://www.youtube.com/embed/a6R2eD8MUD0" frameborder="0" allow="accelerometer; autoplay=1&amp; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							<div><iframe width="560" height="315" src="https://www.youtube.com/embed/63fnzKd8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 						</div>
 
 					</div>
@@ -118,24 +118,15 @@
 
 					<div class="content">
 
-						<h4>힘펠 휴젠뜨 TVCF</h4>
+						<h4>맘든든센터 소개영상</h4>
 						<hr />
 
-						<span class="category">Client : 힘펠</span>
+						<span class="category">Client : 영등포구육아종합지원센터</span>
 						<hr class="second" />
 
-						<p><br>제작년도 : 2018년 </br><br>제작범위 : TVCF 및 메이킹영상 기획, 제작총괄</br></p>
+						<p><br>제작년도 : 2022년 </br><br>제작범위 : 기획, 촬영, 편집</br><br>참고예산 : 500만원 내외</br><br>※ 상기 예산은 단순 참고용으로 본 영상 실제 제작비와는 차이가 있습니다.</p>
 
 						<a class="actionButton close" href="#">Close</a>
-
-					</div>
-
-				</section>
-
-	
-			</article>
-
-		</div>
 
 
 	</div>
